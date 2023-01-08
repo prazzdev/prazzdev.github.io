@@ -1,0 +1,21 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Agung Prasetyo",
+  "main": "index.html",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prazzdev/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "tailwind"
+  ],
+  "author": "prazzdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prazzdev/portfolio/issues"
+  },
+  "homepage": "https://github.com/prazzdev/portfolio#readme"
+}

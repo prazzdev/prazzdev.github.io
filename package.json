@@ -1,21 +1,13 @@
 {
-  "name": "my-portfolio",
+  "name": "portfolio1",
   "version": "1.0.0",
-  "description": "Portfolio Agung Prasetyo",
-  "main": "index.html",
-  "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/prazzdev/portfolio.git"
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "portfolio",
-    "tailwind"
-  ],
-  "author": "prazzdev",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/prazzdev/portfolio/issues"
-  },
-  "homepage": "https://github.com/prazzdev/portfolio#readme"
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
